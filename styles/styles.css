@@ -347,6 +347,17 @@ body {
 
 /*После этой строки добавьте код из 4-ой части бонуса*/
 
+.footer {
+  padding: 126px 0 50px 0;
+  text-align: center;
+}
+
+.rights {
+  margin-top: 14px;
+  font-size: 18px;
+  line-height: 130%;
+}
+
 /*!!! эти строки НЕ ТРОГАТЬ, они всегда должны быть самыми последними*/
 .line1 {
   position: absolute;
