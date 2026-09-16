@@ -1,12 +1,12 @@
 # Trendy cookies 🍪
 
-[![View Live Site](https://shields.io)](https://github.io)
+<p align="left">
+  <a href="https://github.io" target="_blank">
+    <img src="https://shields.io" alt="Live Demo">
+  </a>
+</p>
 
-<<<<<<< Updated upstream
 
-
-=======
->>>>>>> Stashed changes
 A modern, vibrant, and fully responsive landing page for a premium online cookie bakery. The website features an elegant design, a dynamic product catalog, and an engaging user interface designed to showcase premium baked goods.
 
 ## ✨ Features
