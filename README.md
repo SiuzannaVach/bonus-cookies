@@ -1,6 +1,6 @@
 # Trendy cookies 🍪
 
-🔗 **[👉 Click here to view the live website](https://github.io)**
+🔗 **[👉 Click here to view the live website](https://siuzannavach.github.io/bonus-cookies/)**
 
 
 A modern, vibrant, and fully responsive landing page for a premium online cookie bakery. The website features an elegant design, a dynamic product catalog, and an engaging user interface designed to showcase premium baked goods.
