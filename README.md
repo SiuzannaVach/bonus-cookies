@@ -3,6 +3,7 @@
 [![View Live Site](https://shields.io)](https://github.io)
 
 
+
 A modern, vibrant, and fully responsive landing page for a premium online cookie bakery. The website features an elegant design, a dynamic product catalog, and an engaging user interface designed to showcase premium baked goods.
 
 ## ✨ Features
